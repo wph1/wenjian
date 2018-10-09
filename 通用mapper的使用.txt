@@ -1,0 +1,9 @@
+﻿通用mapper的使用;  tk.mybatis.mapper.common.Mapper
+https://blog.csdn.net/dwf_android/article/details/79359360
+
+
+mybatis-generator和TKmybatis的结合使用
+mvn mybatis-generator:generate 生成命令
+
+网络拓扑图
+http://www.ourd3js.com/

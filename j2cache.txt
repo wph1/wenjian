@@ -1,0 +1,10 @@
+https://blog.csdn.net/fly_captain/article/details/81218607  视频介绍
+
+j2cache中使用方法：
+https://www.aliyun.com/jiaocheng/805602.html	
+
+
+j2cache缓存的详细介绍：
+https://gitee.com/ld/J2Cache
+
+https://www.ieucd.com/

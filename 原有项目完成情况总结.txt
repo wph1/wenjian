@@ -1,0 +1,15 @@
+网络视图
+	回话信息 （无映射url）/admin/function/sessions
+	网络拓扑  /admin/function/topology
+	终端信息 （无映射url）/admin/function/hosts
+
+系统功能视图
+	功能初始化  /admin/function/init
+	真实ip配置  /admin/function/rip
+	虚拟ip配置  /admin/function/vip（没有url映射）
+	外部ip配置  /admin/function/wip（没有url映射）
+	日志管理    /admin/function/log（没有url映射）
+
+
+页面有两套，用那一套，那一套比较完善？？
+	

@@ -1,0 +1,11 @@
+[ConnectionProfile]
+ConnectionType=JDBC
+Dbms=MySQL
+Description=连接mysql的配置文件
+DisableBind=0
+Driver=com.mysql.jdbc.Driver
+JarFiles=C:\repository\mysql\mysql-connector-java\5.1.29\mysql-connector-java-5.1.29.jar
+LogId=root
+LogPassword=123456
+TrimSpaces=0
+URL=jdbc:mysql://59.110.228.223:3306/geek
